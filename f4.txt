@@ -1,0 +1,3 @@
+SRINU
+
+[4]+ Stopped           cat >> f4.txt

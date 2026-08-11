@@ -1,0 +1,14 @@
+KUMAR
+VENKATESH
+SRINU
+SAI
+MADHAV
+PURNA
+
+[1]+  Stopped         cat >> file1.txt
+KUMAR
+VENKATESH
+SRINU 
+SAI
+MADHAV
+PURNA
