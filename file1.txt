@@ -12,3 +12,9 @@ SRINU
 SAI
 MADHAV
 PURNA
+APPLE
+BANANA
+HI 
+HELLO
+
+[1]+ Stopped          cat >> file1.txt
